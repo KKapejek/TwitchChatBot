@@ -1,0 +1,26 @@
+{
+  "name": "twitchbot",
+  "version": "1.0.0",
+  "description": "twitch bot",
+  "main": "bot.js",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "node-fetch": "^2.6.0",
+    "tmi.js": "^1.5.0",
+    "twitch-js": "^2.0.0-beta.33"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KKapejek/TwitchBot.git"
+  },
+  "author": "Krzysztof 'Kapejek' Kasper",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KKapejek/TwitchBot/issues"
+  },
+  "homepage": "https://github.com/KKapejek/TwitchBot#readme"
+}
